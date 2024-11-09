@@ -1,4 +1,3 @@
-
 import { Link } from "react-router-dom";
 
 import { useState } from "react";
@@ -92,7 +91,7 @@ const Login = () => {
             name="password"
             id=""
             onChange={onChange}
-            placeholder="Enter email"
+            placeholder="Enter password"
             className="p-[8px] w-full h-[40px] outline-none border border-neutral-300"
           />
         </div>

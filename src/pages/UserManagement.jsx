@@ -55,7 +55,7 @@ useEffect(()=>{
 
   return (
     <div className="flex flex-col h-screen w-full  items-center">
-      <Header name="Mercy cherotich" navItems={navItems} increaseCounter={increaseCounter} decreaseCounter={decreaseCounter} counter={counter}/>
+      <Header name="Pauline Lokuru" navItems={navItems} increaseCounter={increaseCounter} decreaseCounter={decreaseCounter} counter={counter}/>
 
 
       <div>
